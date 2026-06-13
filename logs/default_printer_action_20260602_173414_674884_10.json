@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-06-02T17:34:14",
+  "counter": 10,
+  "client_host": "192.168.18.141",
+  "payload": {
+    "id": 33,
+    "jsonrpc": "2.0",
+    "method": "call",
+    "params": {
+      "data": {
+        "action": "cashbox"
+      }
+    }
+  }
+}
