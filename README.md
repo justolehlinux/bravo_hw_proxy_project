@@ -24,9 +24,9 @@ FastAPI replacement for Odoo POS Windows Virtual IoT / hardware proxy.
 ## Install
 
 ```powershell
-cd C:\Users\TPV\Documents
-Expand-Archive .\bravo_hw_proxy_v2.zip -DestinationPath .
-cd .\bravo_hw_proxy_v2
+git clone https://github.com/justolehlinux/bravo_hw_proxy_project
+
+cd bravo_hw_proxy_project
 
 python -m venv .venv
 .\.venv\Scripts\activate
