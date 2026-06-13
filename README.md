@@ -28,7 +28,7 @@ git clone https://github.com/justolehlinux/bravo_hw_proxy_project
 
 cd bravo_hw_proxy_project
 
-python -m venv .venv
+python3.14.exe -m venv .venv
 .\.venv\Scripts\activate
 
 pip install -r requirements.txt
